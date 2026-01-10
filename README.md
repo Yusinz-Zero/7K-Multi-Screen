@@ -22,7 +22,7 @@
 ![Seven Knights Rebirth Multi-Screen Example](images/multi-screen-screenshot.png)
 
 ### 📺 วิดีโอสอนการใช้งาน (How to Use Video)
-[<img src="https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube" width="200">](https://www.youtube.com/watch?v=ใส่_VIDEO_ID_ตรงนี้)
+[<img src="https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube" width="200">](https://www.youtube.com/watch?v=S-5bCCXOXQU)
 ---
 
 ## 🌟 Features (คุณสมบัติ)
