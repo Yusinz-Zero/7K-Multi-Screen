@@ -37,9 +37,9 @@
 ## 🚀 How to Use (วิธีใช้งาน)
 
 1.  ไปที่หน้า [Releases](../../releases) และดาวน์โหลดเวอร์ชันล่าสุด
-2.  **Run as Administrator:** คลิกขวาที่โปรแกรม `7K-Multi-Screen.exe` แล้วเลือก "Run as Administrator" (จำเป็นต้องใช้เพื่อจัดการ Process ของเกม)
+2.  **Run as Administrator:** คลิกขวาที่โปรแกรม `SevenKnightsMultiScreen.exe` แล้วเลือก "Run as Administrator" (จำเป็นต้องใช้เพื่อจัดการ Process ของเกม)
 3.  เปิดตัวเกมหลักครั้งที่ 1 ผ่าน Launcher ปกติ
-4.  เมื่อเกมจอแรกโหลดเสร็จ ให้กดปุ่ม **"Unlock Multi-Window"** ในโปรแกรม
+4.  เมื่อเกมจอแรกโหลดเสร็จ ให้กดปุ่ม **"TERMINATE"** ในโปรแกรม
 5.  เปิดเกมใหม่อีกครั้งผ่าน Launcher เดิม และทำซ้ำตามจำนวนจอที่ต้องการ
 
 ---
