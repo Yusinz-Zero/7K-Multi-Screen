@@ -4,6 +4,16 @@
 
 ---
 
+## 📸 Screenshots (ภาพตัวอย่าง)
+
+นี่คือตัวอย่างภายในโปรแกม:
+
+![Seven Knights Rebirth Multi-Screen Example](images/multi-screen-screenshot.png)
+
+### 📺 วิดีโอสอนการใช้งาน (How to Use Video)
+[<img src="https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube" width="200">](https://www.youtube.com/watch?v=ใส่_VIDEO_ID_ตรงนี้)
+---
+
 ## 🌟 Features (คุณสมบัติ)
 
 * **Multi-Instance Unlock:** ปลดล็อกข้อจำกัดมาตรฐานของเกม ทำให้เปิดได้มากกว่า 1 จอ
