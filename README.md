@@ -20,7 +20,7 @@
 
 นี่คือตัวอย่างภายในโปรแกม:
 
-![Seven Knights Rebirth Multi-Screen Example](images/multi-screen-screenshot.png)
+![Seven Knights Rebirth Multi-Screen Example](images/image.png)
 
 ### 📺 วิดีโอสอนการใช้งาน (How to Use Video)
 [<img src="https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube" width="200">](https://www.youtube.com/watch?v=S-5bCCXOXQU)
