@@ -12,14 +12,7 @@ if errorlevel 1 (
     exit /b 1
 )
 
-echo [1/5] Installing required packages...
-pip install pyinstaller pyarmor pillow --quiet
-if errorlevel 1 (
-    echo [ERROR] Failed to install packages
-    pause
-    exit /b 1
-)
-echo [OK] Packages installed
+echo [1/5] Skipping pip install (assuming dependencies are met)...
 
 echo.
 echo [2/5] Cleaning previous builds...
@@ -41,9 +34,7 @@ echo [OK] Code obfuscated
 
 echo.
 echo [4/5] Building executable with PyInstaller...
-
-pyinstaller --clean SevenKnightsMultiScreen.spec
-
+pyinstaller --clean -F -w -n SevenKnightsMultiScreen -i icon.ico --add-data "icon.ico;." --collect-all customtkinter --hidden-import customtkinter obfuscated\kill_bootstrap_ui.py
 if errorlevel 1 (
     echo [ERROR] PyInstaller build failed
     echo [TIP] Try running: pip install --upgrade pyinstaller
