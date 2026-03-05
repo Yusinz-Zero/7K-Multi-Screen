@@ -8,10 +8,11 @@
 
 เนื่องจากโปรแกรมนี้มีการเข้าถึง Process ในระบบเพื่อจัดการ Mutex ตัว Windows Defender หรือ Antivirus บางตัวอาจตรวจจับว่าเป็นความเสี่ยง (False Positive) เพื่อความสบายใจของผู้ใช้งาน คุณสามารถตรวจสอบผลการสแกนไฟล์อย่างละเอียดได้ที่นี่:
 
-[![VirusTotal Check](https://img.shields.io/badge/VirusTotal-Clean%20Report-blue?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/95b576b700d070edde34caf61659dc0f63ced9c693c7cc147eee545cbc25c6f4/detection)
+[![VirusTotal Check](https://img.shields.io/badge/VirusTotal-Clean%20Report-blue?style=for-the-badge&logo=virustotal)](https://www.virustotal.com/gui/file/21721f69c73b085527b9a4f0425c516f0b7e7dc519cb125f935f971ff107491a/detection)
 
-* **Scan Result:** [คลิกเพื่อดูผลการสแกนไฟล์ .exe โดยละเอียด](https://www.virustotal.com/gui/file/95b576b700d070edde34caf61659dc0f63ced9c693c7cc147eee545cbc25c6f4/detection)
-* **Status:** ✅ ปลอดภัย ไม่มีมัลแวร์แฝง (6/71 detections)
+* **Scan Result:** [คลิกเพื่อดูผลการสแกนไฟล์ .exe โดยละเอียด](https://www.virustotal.com/gui/file/21721f69c73b085527b9a4f0425c516f0b7e7dc519cb125f935f971ff107491a/detection)
+* **Status:** ✅ ปลอดภัย ไม่มีมัลแวร์แฝง (4/71 detections)
+* **Status:** ✅ Update 5/3/2026
 
 ---
 
